@@ -1,4 +1,6 @@
 
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/284ae82f181c716d860820c08e880813/asset-v1:LinuxFoundationX+LFS101x+1T2017+type@asset+block/LFS01_Summary.jpg)
+
 #### Welcome and Introduction
 
 ### Chapter 01: The Linux Foundation
