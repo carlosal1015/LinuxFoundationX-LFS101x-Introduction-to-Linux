@@ -200,7 +200,7 @@
 
 *Summary*
 
-### hapter 15 : Bash Shell Scripting I
+### Chapter 15 : Bash Shell Scripting I
 
 *Introduction/ Learning Objectives*
 
