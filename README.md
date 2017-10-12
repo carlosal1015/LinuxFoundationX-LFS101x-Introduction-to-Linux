@@ -6,4 +6,5 @@
 **Gist of this Course :**
 > The goal of this course is to help you become familiar with the Linux operating system. It is designed to take you well beyond being a casual, personal user of Linux. You will start with the fundamentals and progress to explore the various tools and techniques commonly used by Linux users, programmers, and system administrators to do their day-to-day work.
 
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/4e1a4f522ae18ac0b1d334c2076dfe70/asset-v1:LinuxFoundationX+LFS101x+1T2017+type@asset+block/LFS01_ch0_screen_02.jpg)
 
