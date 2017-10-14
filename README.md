@@ -33,6 +33,14 @@
 * **Security Principles**
 * **Bash Shell Scripting I, II**
 > A detailed :ledger: **Course Structure** can be found [Here!](https://github.com/0x48piraj/LinuxFoundationX-LFS101x-Introduction-to-Linux/blob/master/syllabus.md)
+
+### Course Handouts :
+> An "Outline of the Course" was given as a Course Handout.
+
+* [View in Github!](https://github.com/0x48piraj/LinuxFoundationX-LFS101x-Introduction-to-Linux/blob/master/Course%20Handouts/LFS101x_-_Introduction_to_Linux_Outline.pdf)
+* [Download!](https://github.com/0x48piraj/LinuxFoundationX-LFS101x-Introduction-to-Linux/raw/master/Course%20Handouts/LFS101x_-_Introduction_to_Linux_Outline.pdf)
+
+
 # Contribute ?
 > Want to Contribute ? You're most Welcome! :wink:
 
