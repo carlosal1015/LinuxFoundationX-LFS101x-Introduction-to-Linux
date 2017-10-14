@@ -1,5 +1,5 @@
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/7043bebde379730f702f381d4b1d4e8c/asset-v1:LinuxFoundationX+LFS101x+1T2017+type@asset+block/LF_logo_color.jpg)
-# LinuxFoundationX: LFS101x: Introduction to Linux
+# LinuxFoundationX: LFS101x: Introduction to Linux ![Started Mar_23,_2017](https://img.shields.io/badge/Started-Mar_23,_2017-orange.svg)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/powered-by-responsibility.svg)](http://forthebadge.com)
@@ -12,6 +12,7 @@
 ![Subject Computer_Science](https://img.shields.io/badge/Subject-Computer_Science-FF69A4.svg)
 ![Age 17](https://img.shields.io/badge/Age-17-brightgreen.svg)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/0x48piraj/LinuxFoundationX-LFS101x-Introduction-to-Linux/blob/master/LICENSE)
+
 
 > Welcome to LFS101x: Introduction to Linux (4th edition)
 
