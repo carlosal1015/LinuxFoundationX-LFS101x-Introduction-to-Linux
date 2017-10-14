@@ -32,6 +32,18 @@
 * **Typos's. Ofcourse.** (Yes! I keep making stupid mistakes:wink:)
 * Oh! And, the **Practice Problems** *(Or, I will add them! , **later**:stuck_out_tongue:)*
 
+# < metadata >
+  
+  < **meta** name="**author**" content="**[0x48piraj](https://github.com/0x48piraj)**" >
+  
+  < **meta** name="**description**" content="**Course:: LinuxFoundationX: LFS101x: Introduction to Linux**" >
+  
+  < **meta** name="**keywords**" content="**mooc,edX,CS,Linux,Fun!**" >
+  
+  < **meta** name="**Twitter**" content="**[0x48piraj](https://twitter.com/0x48piraj)**" >
+  
+  < **meta** name="**LinkedIn**" content="**[0x48piraj](https://www.linkedin.com/in/0x48piraj/)**" >
+  
 
 # License
 [MIT License](http://opensource.org/licenses/MIT)
