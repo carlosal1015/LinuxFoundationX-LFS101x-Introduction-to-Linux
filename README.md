@@ -1,4 +1,8 @@
-# :books::black_nib: LinuxFoundationX: LFS101x: Introduction to Linux
+# LinuxFoundationX: LFS101x: Introduction to Linux
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-responsibility.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/winter-is-coming.svg)](http://forthebadge.com)
 > Welcome to LFS101x: Introduction to Linux (4th edition)
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/7043bebde379730f702f381d4b1d4e8c/asset-v1:LinuxFoundationX+LFS101x+1T2017+type@asset+block/LF_logo_color.jpg)
