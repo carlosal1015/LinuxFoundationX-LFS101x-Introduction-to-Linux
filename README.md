@@ -12,6 +12,9 @@
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/4e1a4f522ae18ac0b1d334c2076dfe70/asset-v1:LinuxFoundationX+LFS101x+1T2017+type@asset+block/LFS01_ch0_screen_02.jpg)
 
+# License
+[MIT License](http://opensource.org/licenses/MIT)
+
 # Copyright
 **Copyright © 2017. [Piyush Raj](https://github.com/0x48piraj).**
 
