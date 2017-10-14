@@ -11,7 +11,7 @@
 ![Level Introductory](https://img.shields.io/badge/Level-Introductory-yellow.svg)
 ![Subject Computer_Science](https://img.shields.io/badge/Subject-Computer_Science-FF69A4.svg)
 ![Age 17](https://img.shields.io/badge/Age-17-brightgreen.svg)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://github.com/0x48piraj/TestYourCode/blob/master/LICENSE)
+[[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)](https://github.com/0x48piraj/LinuxFoundationX-LFS101x-Introduction-to-Linux/blob/master/LICENSE)
 
 > Welcome to LFS101x: Introduction to Linux (4th edition)
 
@@ -46,7 +46,7 @@
   
 
 # License
-[MIT License](http://opensource.org/licenses/MIT)
+[BSD-3 License](http://opensource.org/licenses/MIT)
 
 # Copyright
 **Copyright © 2017. [Piyush Raj](https://github.com/0x48piraj).**
