@@ -22,6 +22,17 @@
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/4e1a4f522ae18ac0b1d334c2076dfe70/asset-v1:LinuxFoundationX+LFS101x+1T2017+type@asset+block/LFS01_ch0_screen_02.jpg)
 
+# A Quick Glance at [Course Syllabus](https://github.com/0x48piraj/LinuxFoundationX-LFS101x-Introduction-to-Linux/blob/master/syllabus.md) :
+
+* **Philosophy and Concepts**
+* **Basics**
+* **Interface**
+* **Applications & Command Line Operations - Processes, File, Text, Editors, Network, Printing, ...**
+* **Linux Documentation**
+* **Environment**
+* **Security Principles**
+* **Bash Shell Scripting I, II**
+> A detailed :ledger: **Course Structure** can be found [Here!](https://github.com/0x48piraj/LinuxFoundationX-LFS101x-Introduction-to-Linux/blob/master/syllabus.md)
 # Contribute ?
 > Want to Contribute ? You're most Welcome! :wink:
 
