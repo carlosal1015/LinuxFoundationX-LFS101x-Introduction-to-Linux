@@ -66,7 +66,7 @@
   
 
 # License
-[BSD-3 License](https://opensource.org/licenses/BSD-3-Clause)
+**[BSD-3 License](https://opensource.org/licenses/BSD-3-Clause)**
 
 # Copyright
 **Copyright © 2017. [Piyush Raj](https://github.com/0x48piraj).**
