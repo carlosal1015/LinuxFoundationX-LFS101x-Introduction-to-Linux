@@ -21,6 +21,18 @@
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/4e1a4f522ae18ac0b1d334c2076dfe70/asset-v1:LinuxFoundationX+LFS101x+1T2017+type@asset+block/LFS01_ch0_screen_02.jpg)
 
+# Contribute ?
+> Want to Contribute ? You're most Welcome! :wink:
+
+*As we can see, it's a coursework.*
+
+**But, You can still contribute :**
+
+* By adding **references** (**books**, **pdf's**, **notes**, **lectures** or **anything** that will enrich the course experience.:blush:)
+* **Typos's. Ofcourse.** (Yes! I keep making stupid mistakes:wink:)
+* Oh! And, the **Practice Problems** *(Or, I will add them! , **later**:stuck_out_tongue:)*
+
+
 # License
 [MIT License](http://opensource.org/licenses/MIT)
 
