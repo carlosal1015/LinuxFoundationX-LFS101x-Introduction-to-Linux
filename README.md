@@ -40,6 +40,12 @@
 * [View in Github!](https://github.com/0x48piraj/LinuxFoundationX-LFS101x-Introduction-to-Linux/blob/master/Course%20Handouts/LFS101x_-_Introduction_to_Linux_Outline.pdf)
 * [Download!](https://github.com/0x48piraj/LinuxFoundationX-LFS101x-Introduction-to-Linux/raw/master/Course%20Handouts/LFS101x_-_Introduction_to_Linux_Outline.pdf)
 
+# My Journey :relaxed:
+
+---
+*I will update my story soon !*
+
+---
 
 # Contribute ?
 > Want to Contribute ? You're most Welcome! :wink:
