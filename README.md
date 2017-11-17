@@ -5,8 +5,9 @@
 [![forthebadge](http://forthebadge.com/images/badges/powered-by-responsibility.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/winter-is-coming.svg)](http://forthebadge.com)
 
-![mooc edX](https://img.shields.io/badge/mooc-edX-blue.svg)
+![Type mooc](https://img.shields.io/badge/Type-mooc-blue.svg)
 ![Course Completed](https://img.shields.io/badge/Course-Completed-brightgreen.svg)
+![mooc edX](https://img.shields.io/badge/mooc-edX-blue.svg)
 ![Institution LinuxFoundationX](https://img.shields.io/badge/Institution-LinuxFoundationX-red.svg)
 ![Level Introductory](https://img.shields.io/badge/Level-Introductory-yellow.svg)
 ![Subject Computer_Science](https://img.shields.io/badge/Subject-Computer_Science-FF69A4.svg)
