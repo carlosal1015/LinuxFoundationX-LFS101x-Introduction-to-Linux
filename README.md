@@ -75,8 +75,8 @@
   
 `< meta name="LinkedIn" content="0x48piraj" >`
   
-![LinkedIn](https://i.imgur.com/XEu2UHB.png)
-![Twitter](https://i.imgur.com/PZow4Us.png)
+[![LinkedIn](https://i.imgur.com/XEu2UHB.png)](https://www.linkedin.com/in/0x48piraj/)
+[![Twitter](https://i.imgur.com/PZow4Us.png)](https://twitter.com/0x48piraj)
 
 # License
 **[BSD-3 License](https://opensource.org/licenses/BSD-3-Clause)**
