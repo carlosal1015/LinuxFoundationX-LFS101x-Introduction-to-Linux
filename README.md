@@ -65,7 +65,7 @@
 
 # < metadata >
   
-`< meta name="author" content="[0x48piraj](https://github.com/0x48piraj)" >`
+`< meta name="author" content="0x48piraj" >`
 
 `< meta name="description" content="Course:: LinuxFoundationX: LFS101x: Introduction to Linux" >`
   
