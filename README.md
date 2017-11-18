@@ -75,7 +75,7 @@
   
 `< meta name="LinkedIn" content="0x48piraj" >`
   
-![LinkedIn](https://i.imgur.com/OgxaCLS.png)
+![LinkedIn](https://i.imgur.com/XEu2UHB.png)
 ![Twitter](https://i.imgur.com/PZow4Us.png)
 
 # License
